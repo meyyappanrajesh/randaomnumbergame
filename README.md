@@ -36,8 +36,11 @@ Copy
 Edit
 random-number-game/
 ├── index.html
+
 ├── style.css
+
 └── script.js
+
 📦 Installation
 To run locally:
 
@@ -46,7 +49,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/random-number-game.git
+git clone https://meyyappanrajesh.github.io/randaomnumbergame/)
 Open index.html in your browser.
 
 No additional setup required.
