@@ -1,7 +1,7 @@
-🎲 Random Number Game
+## 🎲 Random Number Game
 A simple web-based game where the user tries to guess a randomly generated number. Built using HTML, CSS, and JavaScript.
 
-🚀 Features
+#🚀 Features
 Random number generation between a selected range
 
 Real-time feedback on guesses
@@ -10,7 +10,7 @@ Input validation and score tracking
 
 Responsive and clean UI
 
-🎮 How to Play
+#🎮 How to Play
 Enter your guess in the input field.
 
 Click the Check button.
@@ -21,14 +21,14 @@ Try to guess the number in as few attempts as possible!
 
 Click Reset to start a new game.
 
-🛠️ Technologies Used
+#🛠️ Technologies Used
 HTML5
 
 CSS3
 
 JavaScript (ES6)
 
-📂 Project Structure
+#📂 Project Structure
 arduino
 Copy
 Edit
