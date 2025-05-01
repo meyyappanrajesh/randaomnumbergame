@@ -1,4 +1,4 @@
- ## Random Number Game
+##Random Number Game
 A simple web-based game where the user tries to guess a randomly generated number. Built using HTML, CSS, and JavaScript.
 
 # 🚀 Features
